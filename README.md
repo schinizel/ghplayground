@@ -1,8 +1,2 @@
 # ghplayground
-A nothing repo to mess around with
-
-a change for a PR (again).
-
-This Fixes nothing
-
-
+This is a change to PR for the Automations demo.
